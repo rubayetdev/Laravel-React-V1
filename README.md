@@ -21,3 +21,7 @@ I used here vite + react
 ```bash
 npm create vite@latest
 ```
+Install router
+```bash
+npm install react-router-dom -S
+```
