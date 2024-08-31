@@ -8,7 +8,7 @@ This is just a testing project for Laravel with Reactjs.
 ### Clone Repository
 
 ```bash
-git clone git@github.com:rubayetdev/RESTful-Api-Laravel.git
+git clone git@github.com:rubayetdev/Laravel-React-V1.git
 ```
 ### Install Dependencies
 Goto your file and write this command on terminal
